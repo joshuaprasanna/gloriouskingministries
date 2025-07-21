@@ -1,0 +1,63 @@
+/* table {
+    width: 800px;
+    height: 200px;
+    border-collapse: collapse;
+  }
+  
+  th {
+    border-bottom: 1px solid black;
+    
+    background-color: #2a2e54;
+    color: aliceblue;
+  }
+  
+  td {
+    color: rgb(78, 71, 177);
+    text-align: center;
+    border: 2px solid black;
+  } */
+
+  .block-css
+  {
+        color: #ffffff;
+    background: rgb(39, 64, 97);
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding: 5px 10px 13px 10px;
+    margin: 1px 1px 3px 1px;
+    min-width: 205px;
+    max-width: 100%;
+  }
+  .block1-css
+  {
+        color: #ffffff;
+    background: rgb(75, 173, 36);
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding: 5px 10px 13px 10px;
+    margin: 1px 1px 3px 1px;
+    min-width: 205px;
+    max-width: 100%;
+  }
+
+  .block-css-success
+  {
+    color: #ffffff;
+    background: rgb(15, 92, 34);
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding: 5px 10px 13px 10px;
+    margin: 1px 1px 3px 1px;
+   
+    min-width: 205px;
+    max-width: 100%;
+   
+  }
+  .block-css-failure
+  {
+        color: red;
+   
+  }
